@@ -1,4 +1,4 @@
-# 🕹️ Pygame Circle Game 🎮
+# 🕹️ Circular Pong 🎮
 
 This is a simple Pygame where a ball moves within a circle.The objective is to keep the ball inside the circle by bouncing it off a block. The game tracks the duration of each round and the number of times the ball bounces off the block.
 
@@ -9,7 +9,9 @@ This is a simple Pygame where a ball moves within a circle.The objective is to k
 - 📊 Tap counter to track the number of bounces off the block
 - 💡 Instructions displayed at the start of each game and after each reset
 
-<img src="image.jpg" alt="Game Screenshot" width="300"/>
+<div align="center">
+    <img src="image.jpg" alt="Game Screenshot" width="300"/>
+</div>
 
 ## Installation 🛠️
 
