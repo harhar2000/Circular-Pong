@@ -9,7 +9,7 @@ This is a simple Pygame where a ball moves within a circle.The objective is to k
 - 📊 Tap counter to track the number of bounces off the block
 - 💡 Instructions displayed at the start of each game and after each reset
 
-![Game Screenshot](image.jpg)
+<img src="image.jpg" alt="Game Screenshot" width="300"/>
 
 ## Installation 🛠️
 
