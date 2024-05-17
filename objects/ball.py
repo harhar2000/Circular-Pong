@@ -25,7 +25,7 @@ class Ball(pygame.sprite.Sprite):
         y_sign= 0
         for sprite in sprites:
             if ((type(sprite) is Block) and 
-                    sprite.mask.overlap(self.mask, (self.rect.x - sprite.rect.x, self.rect.y - self.rect.y))):
+                    sprite.mask.overlap(self.mask, (self.rect.x - sprite.rect.x, self.rect.y - sprite.rect.y))):
                 if self.rect.x < configs.CIRCLE_X and self.rect.y < configs.CIRCLE_Y:
                     x_sign = 1
                     y_sign = 1
