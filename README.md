@@ -9,6 +9,8 @@ This is a simple Pygame where a ball moves within a circle.The objective is to k
 - 📊 Tap counter to track the number of bounces off the block
 - 💡 Instructions displayed at the start of each game and after each reset
 
+![Game Screenshot](image.jpg)
+
 ## Installation 🛠️
 
 1. Clone the repository:
@@ -17,7 +19,7 @@ This is a simple Pygame where a ball moves within a circle.The objective is to k
     ```
 2. Navigate to the project directory:
     ```sh
-    cd pygame-circle-game
+    cd pygame-circular-pong
     ```
 3. Install the required dependencies:
     ```sh
