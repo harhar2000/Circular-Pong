@@ -36,7 +36,7 @@ def reset_game():
     game_time = 0
     tap_count = 0
     game_active = False  # Require spacebar to be tapped again
-
+ 
 def draw_text(screen, text, position, font):
     text_surface = font.render(text, True, (255, 255, 255))  # White color text
     text_rect = text_surface.get_rect(center=position)
